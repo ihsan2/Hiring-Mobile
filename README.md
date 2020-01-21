@@ -64,11 +64,13 @@ API_KEY_URL=YOUR_HOST_URL
     <img width="250" src="./src/public/assets/ss/ss1.png">   
     <img width="250" src="./src/public/assets/ss/ss2.png">
     <img width="250" src="./src/public/assets/ss/ss3.png">
+</div>
+<div align="center">  
     <img width="250" src="./src/public/assets/ss/ss4.png">   
     <img width="250" src="./src/public/assets/ss/ss5.png">
+    <img width="250" src="./src/public/assets/ss/ss6.png">
 </div>
-<div align="center">
-    <img width="250" src="./src/public/assets/ss/ss6.png">   
+<div align="center">  
     <img width="250" src="./src/public/assets/ss/ss7.png">   
     <img width="250" src="./src/public/assets/ss/ss8.png">
     <img width="250" src="./src/public/assets/ss/ss9.png">

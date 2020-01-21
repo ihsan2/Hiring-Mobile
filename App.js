@@ -3,6 +3,7 @@ import {createAppContainer} from 'react-navigation';
 import {createStackNavigator} from 'react-navigation-stack';
 import {Provider} from 'react-redux';
 import store from './src/public/redux/store';
+import {Root} from 'native-base';
 // screens
 import EngineerRoute from './src/components/EngineerRoute';
 import CompanyRoute from './src/components/CompanyRoute';
@@ -57,7 +58,9 @@ export default class App extends Component {
   render() {
     return (
       <Provider store={store}>
-        <AppContainer />
+        <Root>
+          <AppContainer />
+        </Root>
       </Provider>
     );
   }

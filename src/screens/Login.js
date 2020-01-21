@@ -243,7 +243,4 @@ const mapDispatchToProps = dispatch => ({
   loginCom: data => dispatch(loginCompany(data)),
 });
 
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps,
-)(Login);
+export default connect(mapStateToProps, mapDispatchToProps)(Login);

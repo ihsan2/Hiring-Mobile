@@ -1,5 +1,5 @@
 import React, {PureComponent} from 'react';
-import {View, Image} from 'react-native';
+import {View, Image, Scr} from 'react-native';
 import {Button, Text} from 'native-base';
 import AsyncStorage from '@react-native-community/async-storage';
 import jwt_decode from 'jwt-decode';
@@ -23,48 +23,50 @@ class Start extends PureComponent {
   render() {
     console.disableYellowBox = true;
     return (
-      <View
-        style={{
-          flex: 1,
-          alignItems: 'center',
-          justifyContent: 'center',
-        }}>
-        <Image
-          source={require('../public/assets/start1.jpg')}
+      <>
+        <View
           style={{
-            width: wp('70%'),
-            height: hp('50%'),
-            resizeMode: 'contain',
-            marginTop: hp('0'),
-          }}></Image>
-        <Text
-          style={{
-            fontSize: wp('18%'),
-            fontWeight: 'bold',
-            top: hp('0'),
-            color: '#A0A09B',
-          }}>
-          Hiring App
-        </Text>
-        <Button
-          onPress={() => this.props.navigation.navigate('Login')}
-          rounded
-          info
-          style={{
-            width: wp('65%'),
+            flex: 1,
+            alignItems: 'center',
             justifyContent: 'center',
-            height: hp('8'),
-            top: hp('5%'),
           }}>
-          <Text
+          <Image
+            source={require('../public/assets/app-logo.png')}
             style={{
-              fontWeight: 'bold',
-              fontSize: wp('7%'),
+              width: wp('70%'),
+              height: hp('50%%'),
+              resizeMode: 'contain',
+              marginTop: hp('-20'),
+            }}></Image>
+          <Image
+            source={require('../public/assets/start1.jpg')}
+            style={{
+              width: wp('70%'),
+              height: hp('50%'),
+              resizeMode: 'contain',
+              marginTop: hp('-20'),
+            }}></Image>
+
+          <Button
+            onPress={() => this.props.navigation.navigate('Login')}
+            rounded
+            info
+            style={{
+              width: wp('65%'),
+              justifyContent: 'center',
+              height: hp('8'),
+              top: hp('5%'),
             }}>
-            GET STARTED!
-          </Text>
-        </Button>
-      </View>
+            <Text
+              style={{
+                fontWeight: 'bold',
+                fontSize: wp('7%'),
+              }}>
+              GET STARTED!
+            </Text>
+          </Button>
+        </View>
+      </>
     );
   }
 }

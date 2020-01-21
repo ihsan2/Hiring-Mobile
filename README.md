@@ -61,24 +61,22 @@ API_KEY_URL=YOUR_HOST_URL
 ## Screenshots
 
 <div align="center">
-    <img width="250" src="./src/public/assets/ss/ss1">   
-    <img width="250" src="./src/public/assets/ss/ss2">
-    <img width="250" src="./src/public/assets/ss/ss3">
+    <img width="250" src="./src/public/assets/ss/ss1.png">   
+    <img width="250" src="./src/public/assets/ss/ss2.png">
+    <img width="250" src="./src/public/assets/ss/ss3.png">
+    <img width="250" src="./src/public/assets/ss/ss4.png">   
+    <img width="250" src="./src/public/assets/ss/ss5.png">
 </div>
 <div align="center">
-    <img width="250" src="./src/public/assets/ss/ss4">   
-    <img width="250" src="./src/public/assets/ss/ss5">
-    <img width="250" src="./src/public/assets/ss/ss6">
-</div>
-<div align="center">
-    <img width="250" src="./src/public/assets/ss/ss7">   
-    <img width="250" src="./src/public/assets/ss/ss8">
-    <img width="250" src="./src/public/assets/ss/ss9">
+    <img width="250" src="./src/public/assets/ss/ss6.png">   
+    <img width="250" src="./src/public/assets/ss/ss7.png">   
+    <img width="250" src="./src/public/assets/ss/ss8.png">
+    <img width="250" src="./src/public/assets/ss/ss9.png">
 </div>
 
 ## Related Project (Backend)
 
-- [`Backend-Hit-Hit-Baam`](https://github.com/ihsan2/RESTful-API-Hiring-Channel-App.git)
+- [`Backend RESTful API Hiring Channel App`](https://github.com/ihsan2/RESTful-API-Hiring-Channel-App.git)
 
 ## Contributors
 

@@ -14,7 +14,6 @@
 - [Usage](#usage-for-development)
 - [Create Environment Variable](#create-environment-variable)
 - [Screenshots](#screenshots)
-- [Release APK](#release-apk)
 - [Related Project](#related-project-backend)
 - [Contributors](#contributors)
 

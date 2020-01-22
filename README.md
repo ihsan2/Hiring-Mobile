@@ -14,6 +14,7 @@
 - [Usage](#usage-for-development)
 - [Create Environment Variable](#create-environment-variable)
 - [Screenshots](#screenshots)
+- [Release APK](#release-apk)
 - [Related Project](#related-project-backend)
 - [Contributors](#contributors)
 
@@ -74,6 +75,11 @@ API_KEY_URL=YOUR_HOST_URL
     <img width="250" src="./src/public/assets/ss/ss8.png">
     <img width="250" src="./src/public/assets/ss/ss9.png">
 </div>
+
+## Release APK
+<a href="https://drive.google.com/file/d/1T9VWjDZ8z5NrpDr5C79EuPphKnu1XpPg/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Download%20on%20the-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
+</a>
 
 ## Related Project (Backend)
 

@@ -16,6 +16,7 @@
 - [Screenshots](#screenshots)
 - [Release APK](#release-apk)
 - [Related Project](#related-project-backend)
+- [Contact](#contact)
 - [Contributors](#contributors)
 
 ## Introduction
@@ -77,6 +78,7 @@ API_KEY_URL=YOUR_HOST_URL
 </div>
 
 ## Release APK
+
 <a href="https://drive.google.com/file/d/1T9VWjDZ8z5NrpDr5C79EuPphKnu1XpPg/view?usp=sharing">
   <img src="https://img.shields.io/badge/Download%20on%20the-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
 </a>
@@ -84,6 +86,12 @@ API_KEY_URL=YOUR_HOST_URL
 ## Related Project (Backend)
 
 - [`Backend RESTful API Hiring Channel App`](https://github.com/ihsan2/RESTful-API-Hiring-Channel-App.git)
+
+## Contact
+
+If you want to contact me you can reach me at <nihsan727@gmail.com>.
+
+Copyright © 2020 by Nur Ihsan
 
 ## Contributors
 

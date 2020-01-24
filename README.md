@@ -15,7 +15,7 @@
 - [Create Environment Variable](#create-environment-variable)
 - [Screenshots](#screenshots)
 - [Release APK](#release-apk)
-- [Related Project](#related-project-backend)
+- [Related Project](#related-project)
 - [Contact](#contact)
 - [Contributors](#contributors)
 
@@ -79,13 +79,14 @@ API_KEY_URL=YOUR_HOST_URL
 
 ## Release APK
 
-<a href="https://drive.google.com/file/d/1T9VWjDZ8z5NrpDr5C79EuPphKnu1XpPg/view?usp=sharing">
+<a href="http://bit.ly/HiringApp-v1">
   <img src="https://img.shields.io/badge/Download%20on%20the-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
 </a>
 
-## Related Project (Backend)
+## Related Project
 
 - [`Backend RESTful API Hiring Channel App`](https://github.com/ihsan2/RESTful-API-Hiring-Channel-App.git)
+- [`Hiring App`](https://github.com/ihsan2/React-Hiring-Channel.git)
 
 ## Contact
 

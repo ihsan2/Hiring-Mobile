@@ -15,7 +15,7 @@
     "galio-framework": "^0.6.3",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.27",
     "native-base": "^2.13.8",
     "react": "16.9.0",
